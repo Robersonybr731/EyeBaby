@@ -43,25 +43,26 @@ EyeBaby 有五大功能:
 ## Usage
 下載APK檔後，到手機安裝此程式。
 
-打開程式後會顯示登入畫面，輸入帳密完成後就會去到主畫面，此時就能開始使用各種功能。
-<div style="float:left;border:solid 1px 000;margin:2px;">
+- 打開程式後會顯示登入畫面，輸入帳密完成後就會到主畫面，此時就能開始使用各種功能。
+
+<div align="center">
 <img src="./img/login.png" width = "45%" />
-<img src="./img/main.png" width = "45.5%" />
+<img src="./img/main1.jpg" width = "45.5%" />
 </div>
 
-填寫嬰兒資料卡以供後續情緒辨識紀錄及施打疫苗提醒。
-<div style="float:left;border:solid 1px 000;margin:2px;">
+- 點擊資料卡填寫嬰兒資料卡以供後續情緒辨識紀錄及施打疫苗提醒。
+<div align="center">
 <img src="./img/card.png" width = "45%" />
 <img src="./img/f.png" width = "45.2%" />
 </div>
 
-當進行情緒時，若情緒異常將會讓使用者選擇可能產生的原因，以供後續的紀錄。
-<div style="float:left;border:solid 1px 000;margin:2px;">
-<img src="./img/emo.png" width = "45%" />
-<img src="./img/result.jpg" width = "46.1%" />
+- 當進行情緒時，若情緒異常將會讓使用者選擇可能產生的原因，以供後續的紀錄。
+<div align="center">
+<img src="./img/emotion.jpg" width = "45%" />
+<img src="./img/result.jpg" width = "45%" />
 </div>
 
-最後點擊區域探詢時，將可以顯示出離當前位置最近的幾個醫院位置。
+- 最後點擊區域查詢時，將可以顯示出離當前位置最近的幾個醫院位置。
 <div align="center">
 <img src="./img/loca.png" width = "45%" />
 </div>
