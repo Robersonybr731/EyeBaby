@@ -46,8 +46,8 @@ EyeBaby 有五大功能:
 - 打開程式後會顯示登入畫面，輸入帳密完成後就會到主畫面，此時就能開始使用各種功能。
 
 <div align="center">
-<img src="./img/login.jpg" width = "45%" />
-<img src="./img/main1.jpg" width = "43.8%" />
+<img src="./img/login.jpg" width = "35%" />
+<img src="./img/main1.jpg" width = "34.1%" />
 </div>
 
 - 點擊資料卡填寫嬰兒資料卡以供後續情緒辨識紀錄及施打疫苗提醒。
