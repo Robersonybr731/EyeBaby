@@ -52,17 +52,17 @@ EyeBaby 有五大功能:
 
 - 點擊資料卡填寫嬰兒資料卡以供後續情緒辨識紀錄及施打疫苗提醒。
 <div align="center">
-<img src="./img/card1.jpg" width = "45%" />
-<img src="./img/f1.jpg" width = "45.2%" />
+<img src="./img/card1.jpg" width = "35%" />
+<img src="./img/f1.jpg" width = "35.2%" />
 </div>
 
 - 當進行情緒時，若情緒異常將會讓使用者選擇可能產生的原因，以供後續的紀錄。
 <div align="center">
-<img src="./img/emotion.jpg" width = "45%" />
-<img src="./img/result.jpg" width = "45%" />
+<img src="./img/emotion.jpg" width = "35%" />
+<img src="./img/result.jpg" width = "35%" />
 </div>
 
 - 最後點擊區域查詢時，將可以顯示出離當前位置最近的幾個醫院位置。
 <div align="center">
-<img src="./img/loca.png" width = "45%" />
+<img src="./img/loca.png" width = "35%" />
 </div>
